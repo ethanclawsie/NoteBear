@@ -6,7 +6,7 @@ NoteBear has five commands.
 <p align="center">
 <img src="images/image1.png">
 </p>
-The first command is **help**, this sends a list of all the commands and what they do.
+The first command is **help** this sends a list of all the commands and what they do
 <p align="center">
 <img src="images/image2.png">
 </p>
