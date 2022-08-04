@@ -2,7 +2,9 @@
 NoteBear is a Discord bot that allows rapid creation of timers, todo lists, notes, and notes with categories.
 # Use
 NoteBear has five commands.
+<p align="center">
 <img src="images/image1.png">
+</p>
 The first command is /help, this sends a list of all the commands and what they do.
 <img src="images/image2.png">
 <img src="images/image3.png">
@@ -18,3 +20,6 @@ The fourth command is /timer, this sends the user an alert when the timer for th
 The fifth command is /todo, this sends the user a todo list.
 <img src="images/image10.png">
 <img src="images/image11.png">
+# Privacy
+Every command cannot be seen by anyone else and everything will be sent through direct messages.
+<img src="images/image12.png">
