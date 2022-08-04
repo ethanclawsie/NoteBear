@@ -2,7 +2,6 @@
 NoteBear is a Discord bot that allows rapid creation of timers, todo lists, notes, and notes with categories.
 # Privacy
 Every command cannot be seen by anyone else and everything will be sent through direct messages.
-<img src="images/image12.png">
 # Use
 NoteBear has five commands.
 <p align="center">
